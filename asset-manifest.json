@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/k-macko.github.io/Monsters-Rolodex/static/css/main.dd027b12.chunk.css",
-    "main.js": "/k-macko.github.io/Monsters-Rolodex/static/js/main.d5a2a09c.chunk.js",
-    "main.js.map": "/k-macko.github.io/Monsters-Rolodex/static/js/main.d5a2a09c.chunk.js.map",
-    "runtime-main.js": "/k-macko.github.io/Monsters-Rolodex/static/js/runtime-main.d9fe8a12.js",
-    "runtime-main.js.map": "/k-macko.github.io/Monsters-Rolodex/static/js/runtime-main.d9fe8a12.js.map",
-    "static/js/2.bb7480b0.chunk.js": "/k-macko.github.io/Monsters-Rolodex/static/js/2.bb7480b0.chunk.js",
-    "static/js/2.bb7480b0.chunk.js.map": "/k-macko.github.io/Monsters-Rolodex/static/js/2.bb7480b0.chunk.js.map",
-    "static/js/3.7d037c68.chunk.js": "/k-macko.github.io/Monsters-Rolodex/static/js/3.7d037c68.chunk.js",
-    "static/js/3.7d037c68.chunk.js.map": "/k-macko.github.io/Monsters-Rolodex/static/js/3.7d037c68.chunk.js.map",
-    "index.html": "/k-macko.github.io/Monsters-Rolodex/index.html",
-    "static/css/main.dd027b12.chunk.css.map": "/k-macko.github.io/Monsters-Rolodex/static/css/main.dd027b12.chunk.css.map",
-    "static/js/2.bb7480b0.chunk.js.LICENSE.txt": "/k-macko.github.io/Monsters-Rolodex/static/js/2.bb7480b0.chunk.js.LICENSE.txt"
+    "main.css": "/k-macko.github.io/monsters-rolodex/static/css/main.3e3744ca.chunk.css",
+    "main.js": "/k-macko.github.io/monsters-rolodex/static/js/main.6bab7290.chunk.js",
+    "main.js.map": "/k-macko.github.io/monsters-rolodex/static/js/main.6bab7290.chunk.js.map",
+    "runtime-main.js": "/k-macko.github.io/monsters-rolodex/static/js/runtime-main.821a7e82.js",
+    "runtime-main.js.map": "/k-macko.github.io/monsters-rolodex/static/js/runtime-main.821a7e82.js.map",
+    "static/js/2.5e13e005.chunk.js": "/k-macko.github.io/monsters-rolodex/static/js/2.5e13e005.chunk.js",
+    "static/js/2.5e13e005.chunk.js.map": "/k-macko.github.io/monsters-rolodex/static/js/2.5e13e005.chunk.js.map",
+    "static/js/3.a612b9b8.chunk.js": "/k-macko.github.io/monsters-rolodex/static/js/3.a612b9b8.chunk.js",
+    "static/js/3.a612b9b8.chunk.js.map": "/k-macko.github.io/monsters-rolodex/static/js/3.a612b9b8.chunk.js.map",
+    "index.html": "/k-macko.github.io/monsters-rolodex/index.html",
+    "static/css/main.3e3744ca.chunk.css.map": "/k-macko.github.io/monsters-rolodex/static/css/main.3e3744ca.chunk.css.map",
+    "static/js/2.5e13e005.chunk.js.LICENSE.txt": "/k-macko.github.io/monsters-rolodex/static/js/2.5e13e005.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9fe8a12.js",
-    "static/js/2.bb7480b0.chunk.js",
-    "static/css/main.dd027b12.chunk.css",
-    "static/js/main.d5a2a09c.chunk.js"
+    "static/js/runtime-main.821a7e82.js",
+    "static/js/2.5e13e005.chunk.js",
+    "static/css/main.3e3744ca.chunk.css",
+    "static/js/main.6bab7290.chunk.js"
   ]
 }
